@@ -1,3 +1,2 @@
-# pls send help
 
 panic
